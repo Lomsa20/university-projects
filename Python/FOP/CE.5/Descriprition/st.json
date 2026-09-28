@@ -1,0 +1,13 @@
+[
+  {"id": 301, "name": "Lomsa", "age": 18, "city": "Kutaisi", "scores": {"math": 95, "english": 88, "science": 92}},
+  {"id": 302, "name": "Ana", "age": 20, "city": "Batumi", "scores": {"math": 82, "english": 79, "science": 85}},
+  {"id": 301, "name": "Ana", "age": 18, "city": "Kutaisi", "scores": {"math": 95, "english": 88, "science": 92}},
+  {"id": 303, "name": "Giorgi", "age": 22, "city": "Kutaisi", "scores": {"math": null, "english": 70, "science": 67}},
+  {"id": 304, "name": "Nino", "age": 19, "city": "Batumi", "scores": {"math": 88, "english": 90, "science": null}},
+  {"id": 304, "name": "Nino", "age": 19, "city": "Batumi", "scores": {"math": 88, "english": 90, "science": null}},
+  {"id": 305, "name": "Lasha", "age": 21, "city": "Tbilisi", "scores": {"math": 91, "english": 85, "science": 89}},
+  {"id": 306, "name": "Tamar", "age": 19, "city": "Kutaisi", "scores": {"math": 73, "english": 80, "science": 77}},
+  {"id": 307, "name": "Mariam", "age": 17, "city": "Batumi", "scores": {"math": 85, "english": null, "science": 80}},
+  {"id": 307, "name": "Mariam", "age": 17, "city": "Batumi", "scores": {"math": 85, "english": null, "science": 80}},
+  {"id": 307, "name": "Mariam", "age": 17, "city": "Batumi", "scores": {"math": 85, "english": null, "science": 80}}
+]
